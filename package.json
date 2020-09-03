@@ -1,0 +1,25 @@
+{
+  "name": "simon-dice",
+  "version": "1.0.0",
+  "description": "Simon dice para r/argentinaprograma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLannoo/Simon-dice.git"
+  },
+  "author": "JLannoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLannoo/Simon-dice/issues"
+  },
+  "homepage": "https://github.com/JLannoo/Simon-dice#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}

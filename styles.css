@@ -1,0 +1,27 @@
+.bloque{
+    margin: 25px 25px 25px 25px;
+    padding: 150px 100px 100px 150px;
+    border-radius: 100px;
+    opacity: 50%;
+    transition: opacity 0.5s;
+}
+
+#bloque-1{
+    background-color: red;
+}
+
+#bloque-2{
+    background-color: blue;
+}
+
+#bloque-3{
+    background-color: yellow;
+}
+
+#bloque-4{
+    background-color: green;
+}
+
+.activado{
+    opacity: 100%;
+}
